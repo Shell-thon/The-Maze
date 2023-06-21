@@ -34,4 +34,5 @@ Please have a lot of fun doing this project!
 
 ### Important
 - Don’t forget to install SDL2 [SDL2 tutorials](https://intranet.alxswe.com/rltoken/oona0Kd1yVyjHQGoJaV_aw)
-- You are allowed to use [all the functions provided by SDL2](Don’t forget to install SDL2 SDL2 tutorials).
+- There are no forbidden functions for this project. You are allowed to use any system call and/or standard library function.
+- You are allowed to use [all the functions provided by SDL2](https://intranet.alxswe.com/rltoken/bmGynXNHzUObCE08XuoCQg)
