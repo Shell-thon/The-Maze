@@ -41,7 +41,7 @@ Please have a lot of fun doing this project!
 
 Clone this repo:
 ```bash
-git clone https://github.com/candiepih/The-Maze.git
+git clone https://github.com/Shell-thon/The-Maze.git
 ```
 ## Compiling
 This project makes use of gcc and make for the compilation process.
